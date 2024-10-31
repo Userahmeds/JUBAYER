@@ -1,8 +1,8 @@
-<img src="https://i.imgur.com/PRI7bda.jpeg" alt="banner">
-<h1 align="center"><img src="./dashboard/images/logo-non-bg.png" width="22px"> 𝗝𝗢𝗬-𝗕𝗢𝗧 - 𝗝𝗢𝗬 𝗠𝗘𝗦𝗦𝗘𝗡𝗚𝗘𝗥 𝗖𝗛𝗔𝗧 𝗕𝗢𝗧</h1>
+<img src="https://i.imgur.com/aqVrEYg.jpeg" alt="banner">
+<h1 align="center"><img src="./dashboard/images/logo-non-bg.png" width="22px"> 𝗝𝗨𝗕𝗔𝗬𝗘𝗥-𝗕𝗢𝗧 - 𝗝𝗢𝗬 𝗠𝗘𝗦𝗦𝗘𝗡𝗚𝗘𝗥 𝗖𝗛𝗔𝗧 𝗕𝗢𝗧</h1>
 <!-- Github README -->
 
-<p align="center"><img src="https://img.shields.io/badge/I Am %20JAMALPUR BANGLADESHI- NOOB PROGRAMMER-green?colorA=%23ff0000&colorB=%23017e40&style=flat-square">
+<p align="center"><img src="https://img.shields.io/badge/I Am %20JASHORE BANGLADESHI- NOOB PROGRAMMER-green?colorA=%23ff0000&colorB=%23017e40&style=flat-square">
 
 </i></b></h3>
 <h3 align="center">
@@ -18,12 +18,12 @@
 
 
 <h3><b><i>🏆 Github Statistics :</i></b></h3>
-<a href="https://github.com/MD JUBAED AHMED JOY"><img width=550 src="https://github-profile-trophy.vercel.app/?username=MD-JUBAED-AHMED-JOY&theme=dracula&no-frame=true&title=Followers,Stars,Commit,Repository,Issues"/></a>
+<a href="https://github.com/MD JUBAYER AHMED"><img width=550 src="https://github-profile-trophy.vercel.app/?username=MOHAMMAD-JUBAYER&theme=dracula&no-frame=true&title=Followers,Stars,Commit,Repository,Issues"/></a>
 
 </p>
 <p align="center"> 
  𝚅𝙸𝚂𝙸𝚃𝙾𝚁𝚂 𝙲𝙾𝚄𝙽𝚃
- <img src="https://profile-counter.glitch.me/MD-JUBAED-AHMED-JOY/count.svg" alt="Visitors">
+ <img src="https://profile-counter.glitch.me/MD-JUBAYER-AHMED/count.svg" alt="Visitors">
 </p>
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-1.svg">
@@ -32,7 +32,7 @@
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
-- ➪ 𝗡𝗔𝗠𝗘      : 𝗠𝗗 𝗝𝗨𝗕𝗔𝗘𝗗 𝗔𝗛𝗠𝗘𝗗 𝗝𝗢𝗬
+- ➪ 𝗡𝗔𝗠𝗘      : 𝗠𝗢𝗛𝗔𝗠𝗠𝗔𝗗 𝗝𝗨𝗕𝗔𝗬𝗘𝗥
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
@@ -48,15 +48,15 @@
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
-- ➪ 𝗙𝗔𝗖𝗘𝗕𝗢𝗢𝗞 :- [𝗠𝗗 𝗝𝗨𝗕𝗔𝗘𝗗 𝗔𝗛𝗠𝗘𝗗 𝗝𝗢𝗬 ](https://www.facebook.com/mdjubaedahmedjoy?mibextid=ZbWKwL)
+- ➪ 𝗙𝗔𝗖𝗘𝗕𝗢𝗢𝗞 :- [𝗠𝗢𝗛𝗔𝗠𝗠𝗔𝗗 𝗝𝗨𝗕𝗔𝗬𝗘𝗥 ](https://www.facebook.com/www.xnxx.chrome)
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
-- ➪ 𝗪𝗛𝗔𝗧𝗦 𝗔𝗣𝗣 :- [01709045888 ](wa.me/+8801709045888)
+- ➪ 𝗪𝗛𝗔𝗧𝗦 𝗔𝗣𝗣 :- [01709045888 ](wa.me/+8801714625565)
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
 <h3><b><i> Contact me in Touch :</i></b></h3>
-<a href="https://github.com/MD-JUBAED-AHMED-JOY"><img align="left" title="Github" alt="Github" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" /></a>
+<a href="https://github.com/MD-JUBAYER-AHMED"><img align="left" title="Github" alt="Github" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" /></a>
 <a href="https://fb.com/www.xnx.com09"><img align="left" title="Facebook" alt="Facebook" width="30px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" /></a>
 <a href="https://www.instagram.com/mdrahad_hosain"><img align="left" title="Instagram" alt="Instagram" width="30px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" /></a>
